@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pattie30
-- 👀 I’m interested in ... practicing my code and learning new things
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... anything html, css, JS or react
+- 👋 Hi, I’m Patricia
+- 👀 I’m interested in ... QA
+- 🌱 I’m currently learning ... Linux
+- 💞️ I’m looking to collaborate on ... Debugging
 - 📫 How to reach me ...email!
 
 <!---
